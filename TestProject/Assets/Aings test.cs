@@ -2,15 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class duuuuude : MonoBehaviour {
+public class Aingstest : MonoBehaviour {
 
 	// Use this for initialization
-    //hi
 	void Start () {
-
-//*********************************************
-		//this testing works!
-//*********************************************
+		//this is a test
 	}
 	
 	// Update is called once per frame
